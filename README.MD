@@ -1,6 +1,6 @@
 # ## Trustified Network is a platform to Sell Digital Services Globally and Accept Crypto Payments without paying Hefty Commissions.
 
-## Inspiration
+**Go Global with Borderless Crypto economy!**
 
 “Trust” is a key factor for successful transactions between parties. To ensure trust, we involve third party freelancing platforms or middlemen and pay hefty commissions which highly affect the overall profit margins of parties involved in a transaction.
 
